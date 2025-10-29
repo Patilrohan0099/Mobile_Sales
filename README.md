@@ -32,7 +32,7 @@ Tool	Purpose
 
 -Cleaned and formatted the data (handled missing values, standardized columns, removed duplicates)
 
-E-nsured consistency and accuracy for Power BI import
+-E-nsured consistency and accuracy for Power BI import
 
 # 2.Dashboard Development
 
